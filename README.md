@@ -11,7 +11,7 @@ Write a chatbot that has learnt off my FaceBook messaging data. If this yeilds s
 Finish date: 17/2/2021 (Week 1 of Uni 2021)
 
 
-# Notes
+### Notes
 
 wit.ai seems like a good option seeing as it is developed by FaceBook and since I'll be using my FaceBook data - I will not have to worry about some third party using possibly sensitive data. Upon further investigation, this seems boring. There is a nice web interface and it seems like you just click buttons.
 I want something that requires more coding.
@@ -23,10 +23,49 @@ Chatbots can be categorised into two types:
 
 Rule based seems more suitable for my requirements. 
 
-# Possible frameworks / APIs
+It is likely that i'll have to perform significant amounts of data sanitizing, however I want to first realise what kind of data is requried and if my FaceBook data is appropriate. 
+
+USE A PYTHON VIRTUAL ENVIRONMENT FOR INSTALLATION.
+
+# virtualenv setup:
+(also make sure to use `python3` instead of `python`)
+
+Creating virtual environment:
+```
+virtualenv <name of environment>
+virtualenv chatBootMate
+```
+Activating virtual environment:
+```
+source <name of environment>/bin/activate
+```
+Deactivating virtual environment:
+```
+deactivate
+```
+Make sure you deactivate mate!
+
+To check if the terminal is indeed running in the virtual environment, use: 
+`echo $VIRTUAL_ENV` or `pip -V`
+
+This second one should show the path to the env's location
+
+## Terminology
+
+_Utterance_ is something that the user would say to the bot.
+_Intent_ represents what ther users utterance means or what they intend to get from the chatbot
+_Entity_ is a keyword that makes the user's intent more clear.
+_Tokenise_ helps separate the text data into fragments into smaller readable chunks. 
+
+## Possible frameworks / APIs
 
 Chatterbot: a type of generating self learning framework?
 Follow up with this link: https://www.upgrad.com/blog/how-to-make-chatbot-in-python/
 
-# Useful links:
+## Useful links:
 https://chatbotsmagazine.com/how-to-make-a-chatbot-intelligent-a232dc367aed
+
+link dump since last research:
+https://www.upgrad.com/blog/how-to-make-chatbot-in-python/
+https://analyticsindiamag.com/top-python-libraries-for-chatbot-development/
+https://techstunt.com/top-6-python-libraries-for-chatbot-development/
