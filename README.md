@@ -46,7 +46,7 @@ deactivate
 Make sure you deactivate mate!
 
 To check if the terminal is indeed running in the virtual environment, use: 
-`echo $VIRTUAL_ENV` or `pip -V`
+`echo $VIRTUAL_ENV` or `pip -V` or `which python3`
 
 This second one should show the path to the env's location
 
@@ -56,6 +56,8 @@ _Utterance_ is something that the user would say to the bot.
 _Intent_ represents what ther users utterance means or what they intend to get from the chatbot
 _Entity_ is a keyword that makes the user's intent more clear.
 _Tokenise_ helps separate the text data into fragments into smaller readable chunks. 
+
+_corpus_ in linguistics this is a large and structured set of texts used to do statistical analysis and hypothesis testing, checking occurrences or validating linguistic rules within a specific language territory.
 
 ## Possible frameworks / APIs
 
@@ -69,3 +71,7 @@ link dump since last research:
 https://www.upgrad.com/blog/how-to-make-chatbot-in-python/
 https://analyticsindiamag.com/top-python-libraries-for-chatbot-development/
 https://techstunt.com/top-6-python-libraries-for-chatbot-development/
+
+Nice:
+https://github.com/adeshpande3/Facebook-Messenger-Bot/blob/master/README.md
+https://www.kdnuggets.com/2017/08/deep-learning-train-chatbot-talk-like-me.html
