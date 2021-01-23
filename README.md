@@ -58,6 +58,8 @@ _Entity_ is a keyword that makes the user's intent more clear.
 _Tokenise_ helps separate the text data into fragments into smaller readable chunks. 
 
 _corpus_ in linguistics this is a large and structured set of texts used to do statistical analysis and hypothesis testing, checking occurrences or validating linguistic rules within a specific language territory.
+_phoneme_ (linguistics) perceptually distinct sound in a language that distinguishes one word from another. e.g. p, b and d in pat, bat and bad
+_morpheme_ breaking up words into smaller meaningful sections like incoming = in-come-ing
 
 ## Possible frameworks / APIs
 
@@ -75,3 +77,13 @@ https://techstunt.com/top-6-python-libraries-for-chatbot-development/
 Nice:
 https://github.com/adeshpande3/Facebook-Messenger-Bot/blob/master/README.md
 https://www.kdnuggets.com/2017/08/deep-learning-train-chatbot-talk-like-me.html
+
+Research paper on Deep learning: Natural Language Processing: - Possibly reference?
+https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing
+
+## EXTENTIONS to MVP:
+- could make it teach me a language some how?
+
+
+## Short commings:
+- A possibly fatal flaw is that deep learning is performant for lots of data, however I am limited by the amount of data I have. I could possibly add other data, but this could affect the authenticity.
