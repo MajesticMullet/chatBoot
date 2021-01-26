@@ -81,6 +81,10 @@ https://www.kdnuggets.com/2017/08/deep-learning-train-chatbot-talk-like-me.html
 Research paper on Deep learning: Natural Language Processing: - Possibly reference?
 https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing
 
+Word2Vec articles:
+https://www.quora.com/How-does-word2vec-work-Can-someone-walk-through-a-specific-example
+
+
 ## EXTENTIONS to MVP:
 - could make it teach me a language some how?
 
