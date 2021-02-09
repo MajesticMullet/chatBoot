@@ -84,6 +84,10 @@ https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Revie
 Word2Vec articles:
 https://www.quora.com/How-does-word2vec-work-Can-someone-walk-through-a-specific-example
 
+Word2Vec and Word embedding explained by Xin Rong (good video)
+https://www.youtube.com/watch?v=D-ekE-Wlcds&ab_channel=XinRong
+His Slides:
+https://docs.google.com/presentation/d/1yQWN1CDWLzxGeIAvnGgDsIJr5xmy4dB0VmHFKkLiibo/pub?start=false&loop=false&delayms=3000&slide=id.ge79682746_0_303
 
 ## EXTENTIONS to MVP:
 - could make it teach me a language some how?
